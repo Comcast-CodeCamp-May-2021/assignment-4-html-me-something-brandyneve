@@ -1,1 +1,43 @@
-/* Write your CSS here! */
+<style>
+p{
+   
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+
+}
+h3{
+    color: rgb(118, 153, 61);
+    font-family: fantasy;
+}
+ol{
+   
+}
+article{
+    color: red;
+    text-align: center;
+    font-size: larger;
+  
+
+}
+body{
+     background-color:burlywood;
+     padding: 1px 50px 100px 50px;
+     
+}
+header{
+    font-size: xx-large;
+    text-align: center;
+    font-family: fantasy;
+    margin:50px 50px;
+    
+}
+#noticeMe{
+    color: rgb(109, 17, 17);
+    font-size: larger;
+    
+ }
+ .spook{
+     border:tomato solid;
+     padding:5px 10px 5px 10px;
+ }
+</style>
